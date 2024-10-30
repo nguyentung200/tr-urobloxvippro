@@ -1,0 +1,5 @@
+Config = (
+namescript="138984651442234",--ID Logo Script
+tacgia="nguyentung"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
